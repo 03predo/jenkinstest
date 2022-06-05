@@ -1,0 +1,2 @@
+2022-06-04 16:59:17 INFO Target: esp32, Port: /dev/ttyUSB0
+2022-06-04 16:59:33 INFO Logs recorded under folder: /tmp/pytest-embedded/2022-06-04_20-59-16/test_blink

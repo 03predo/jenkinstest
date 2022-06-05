@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "http_server.h": "c",
+        "stdio.h": "c",
+        "wifi.h": "c",
+        "predo_http_server.h": "c",
+        "stat.h": "c",
+        "sevseg.h": "c"
+    }
+}
